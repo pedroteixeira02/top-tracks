@@ -97,7 +97,7 @@ h1 {
 
 @keyframes typing {
     0% { max-width: 0; }
-    100% { max-width: 230px; }
+    100% { max-width: 200px; }
 }
 
 @keyframes blink-caret {
@@ -323,9 +323,10 @@ footer {
   }
 
   .now-playing-info {
-    width: auto;
-    max-width: 160px;
-    flex: 1;
+  width: auto;
+  max-width: 200px;
+  flex: 1;
+  min-width: 0;
   }
 
   .np-title {
