@@ -1,0 +1,394 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+   background: radial-gradient(circle at top, #044d18 0%, #121212 85%);
+    background-attachment: fixed;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px; /* era 35px */
+}
+.profile-header {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+
+h1 {
+    margin: 10px 0 0 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.spotify-profile-link {
+    font-size: 14px;
+    color: #b3b3b3;
+    text-decoration: none;
+    margin-top: -8px;
+    transition: color 0.2s ease;
+}
+
+.spotify-profile-link:hover {
+    color: #1DB954;
+    text-decoration: underline;
+}
+
+.now-playing {
+    display: flex;
+    align-items: center;
+    background-color: #181818;
+    padding: 10px 20px;
+    border-radius: 50px;
+    gap: 12px;
+    margin-top: 5px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.spotify-logo {
+    width: 22px;
+    height: 22px;
+    fill: #1DB954;
+}
+
+.now-playing-info {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 230px; 
+}
+
+.np-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #1DB954;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid #1DB954;
+    animation: typing 3.5s steps(35, end) infinite alternate, blink-caret 0.75s step-end infinite;
+}
+
+.np-artist {
+    font-size: 12px;
+    color: #b3b3b3;
+}
+
+@keyframes typing {
+    0% { max-width: 0; }
+    100% { max-width: 230px; }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #1DB954; }
+}
+
+.audio-bars {
+    display: flex;
+    align-items: flex-end;
+    height: 16px;
+    gap: 3px;
+    margin-left: 5px;
+}
+
+.bar {
+    width: 3px;
+    background-color: #1DB954;
+    animation: bounce 1.2s infinite ease-in-out alternate;
+}
+
+.bar:nth-child(1) { height: 60%; animation-delay: 0s; }
+.bar:nth-child(2) { height: 100%; animation-delay: 0.3s; }
+.bar:nth-child(3) { height: 80%; animation-delay: 0.6s; }
+
+@keyframes bounce {
+    0% { height: 20%; }
+    100% { height: 100%; }
+}
+
+/* Dashboard e Tracks */
+.dashboard-section h2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 900;
+  color: #1DB954;
+  margin: 25px 0 15px 5px;
+}
+
+#track-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.track-item {
+  display: flex;
+  align-items: center;
+  background-color: rgba(29, 185, 84, 0.06);
+  padding: 10px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: background-color 0.2s ease;
+}
+
+.track-item:hover {
+  background-color: rgba(29, 185, 84, 0.12);
+}
+.track-rank {
+    font-size: 16px;
+    font-weight: bold;
+    color: #b3b3b3;
+    min-width: 30px;
+    text-align: center;
+}
+
+.track-item img {
+    width: 48px;
+    height: 48px;
+    border-radius: 4px;
+    margin-right: 15px;
+}
+
+.track-info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.track-name {
+    font-weight: bold;
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 4px;
+}
+
+.track-artist {
+    font-size: 13px;
+    color: #b3b3b3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.playlists-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.social-section {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.social-title {
+  font-size: 0.75rem !important;
+  text-transform: uppercase;
+  letter-spacing: 2.5px !important;
+  font-weight: 900;
+  color: #1DB954 !important;
+  margin: 25px 0 20px 5px !important;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.social-icons a {
+    color: #ffffff;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.social-icons a:hover {
+    transform: translateY(-3px);
+    color: #1DB954;
+}
+
+.social-icons svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+}
+
+.footer-divider {
+    border: none;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.08);
+    width: 100%;
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+    padding-bottom: 20px;
+}
+
+.green-text {
+    color: #1DB954;
+    font-weight: 600;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #1DB954;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #000000;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    z-index: 100;
+}
+
+.back-to-top:hover {
+    transform: scale(1.1);
+    background-color: #1ed760;
+}
+
+.back-to-top svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+.avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #121212;
+    /* Aqui chamamos o arquivo que está na mesma pasta */
+    background-image: url('perfil.jpg'); 
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #1DB954;
+}
+
+/* ===== RESPONSIVIDADE MOBILE ===== */
+
+@media (max-width: 480px) {
+  .container {
+    padding: 24px 16px;
+    gap: 28px;
+  }
+
+  .avatar {
+    width: 100px;
+    height: 100px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .now-playing {
+    padding: 8px 14px;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .now-playing-info {
+    width: auto;
+    max-width: 160px;
+    flex: 1;
+  }
+
+  .np-title {
+    font-size: 13px;
+  }
+
+  .np-artist {
+    font-size: 11px;
+  }
+
+  .dashboard-section h2 {
+    font-size: 0.7rem;
+  }
+
+  .track-item img {
+    width: 42px;
+    height: 42px;
+    margin-right: 12px;
+  }
+
+  .track-name {
+    font-size: 14px;
+  }
+
+  .track-artist {
+    font-size: 12px;
+  }
+
+  .social-icons {
+    gap: 20px;
+  }
+
+  .back-to-top {
+    width: 42px;
+    height: 42px;
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  h1 {
+    font-size: 1.35rem;
+  }
+
+  .dashboard-section h2 {
+    letter-spacing: 1.5px;
+  }
+
+  .now-playing-info {
+    max-width: 130px;
+  }
+
+  .np-title {
+    font-size: 12px;
+  }
+
+  .avatar {
+    width: 90px;
+    height: 90px;
+  }
+
+  .container {
+    padding: 20px 14px;
+  }
+}
