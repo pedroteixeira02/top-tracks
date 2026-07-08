@@ -1,11 +1,5 @@
 [
   {
-    "name": "Juízo Final",
-    "artist": "Orochi, Papatinho",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27341a7a1ef728b4572fd94cad1",
-    "url": "https://open.spotify.com/track/6yBJ12HCiAx2IDK2ATFTCc"
-  },
-  {
     "name": "Pitbull",
     "artist": "Mc Jhey, GP DA ZL",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b972c42c6eb00615489677eb",
@@ -18,16 +12,34 @@
     "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
   },
   {
+    "name": "Juízo Final",
+    "artist": "Orochi, Papatinho",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27341a7a1ef728b4572fd94cad1",
+    "url": "https://open.spotify.com/track/6yBJ12HCiAx2IDK2ATFTCc"
+  },
+  {
     "name": "Quero Ver Pegar Vs Vai Tomar um Taligado",
     "artist": "Dj Aguilar, MC Marlon PH, MC K DA LESTE",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b0dcd262123b1429483c74ab",
     "url": "https://open.spotify.com/track/15rjqiSJnl7Holf9lrOyFM"
   },
   {
+    "name": "Lua Cheia",
+    "artist": "Orochi, jess beats",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a9f96bfe4ca49560204d378",
+    "url": "https://open.spotify.com/track/6oOhETDdPArYQwBcQuw3TG"
+  },
+  {
     "name": "Babydoll",
     "artist": "Dominic Fike",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
     "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+  },
+  {
+    "name": "Suicidal",
+    "artist": "YNW Melly",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c945e5741f61e867c75aa97e",
+    "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
   },
   {
     "name": "Self Aware",
@@ -46,17 +58,5 @@
     "artist": "Cesar Mc",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734feaadc3943b1e54955a1469",
     "url": "https://open.spotify.com/track/5BNrNIYKhYLyrOuvDhAcrt"
-  },
-  {
-    "name": "Cypher Dissparo",
-    "artist": "Jhony Mc, Cesar, Noventa, Thiago MC, Samurai MC",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731edaf03f72515a6e6ef700e1",
-    "url": "https://open.spotify.com/track/16dqFit7mN6YyObvWp8uHK"
-  },
-  {
-    "name": "Jóias do Bairro",
-    "artist": "LEALL, Borges, Rock Danger, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4fda5eb4b7b216e4efd3be",
-    "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
   }
 ]
