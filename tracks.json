@@ -36,16 +36,16 @@
     "url": "https://open.spotify.com/track/7F2ZR42zJapZm5qTFsDiWs"
   },
   {
-    "name": "Minha Última Letra",
-    "artist": "Cesar Mc",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734feaadc3943b1e54955a1469",
-    "url": "https://open.spotify.com/track/5BNrNIYKhYLyrOuvDhAcrt"
-  },
-  {
     "name": "Jóias do Bairro",
     "artist": "LEALL, Borges, Rock Danger, Babidi",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4fda5eb4b7b216e4efd3be",
     "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
+  },
+  {
+    "name": "Minha Última Letra",
+    "artist": "Cesar Mc",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734feaadc3943b1e54955a1469",
+    "url": "https://open.spotify.com/track/5BNrNIYKhYLyrOuvDhAcrt"
   },
   {
     "name": "GLOCK DE COR",
