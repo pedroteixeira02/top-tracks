@@ -36,6 +36,12 @@
     "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
   },
   {
+    "name": "O Crime e a Música",
+    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
+    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
+  },
+  {
     "name": "Minha Última Letra",
     "artist": "Cesar Mc",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734feaadc3943b1e54955a1469",
@@ -48,15 +54,9 @@
     "url": "https://open.spotify.com/track/6yBJ12HCiAx2IDK2ATFTCc"
   },
   {
-    "name": "Cypher Dissparo",
-    "artist": "Jhony Mc, Cesar, Noventa, Thiago MC, Samurai MC",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731edaf03f72515a6e6ef700e1",
-    "url": "https://open.spotify.com/track/16dqFit7mN6YyObvWp8uHK"
-  },
-  {
-    "name": "Quero Ver Pegar Vs Vai Tomar um Taligado",
-    "artist": "Dj Aguilar, MC Marlon PH, MC K DA LESTE",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b0dcd262123b1429483c74ab",
-    "url": "https://open.spotify.com/track/15rjqiSJnl7Holf9lrOyFM"
+    "name": "TEU TIPO",
+    "artist": "Kenny",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5416e3107fe6cb22f07e00d",
+    "url": "https://open.spotify.com/track/7d2qTUgZKF6upBsA7tMsh8"
   }
 ]
