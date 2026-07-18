@@ -30,12 +30,6 @@
     "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
   },
   {
-    "name": "Jóias do Bairro",
-    "artist": "LEALL, Borges, Rock Danger, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4fda5eb4b7b216e4efd3be",
-    "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
-  },
-  {
     "name": "O Crime e a Música",
     "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
@@ -48,10 +42,16 @@
     "url": "https://open.spotify.com/track/5BNrNIYKhYLyrOuvDhAcrt"
   },
   {
-    "name": "Juízo Final",
-    "artist": "Orochi, Papatinho",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27341a7a1ef728b4572fd94cad1",
-    "url": "https://open.spotify.com/track/6yBJ12HCiAx2IDK2ATFTCc"
+    "name": "KING",
+    "artist": "Kanye West, Ye",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
+  },
+  {
+    "name": "Jóias do Bairro",
+    "artist": "LEALL, Borges, Rock Danger, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4fda5eb4b7b216e4efd3be",
+    "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
   },
   {
     "name": "TEU TIPO",
