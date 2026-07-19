@@ -12,22 +12,28 @@
     "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
   },
   {
-    "name": "30 Bandido!",
-    "artist": "Costa Gold",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
-    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
-  },
-  {
     "name": "Lua Cheia",
     "artist": "Orochi, jess beats",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a9f96bfe4ca49560204d378",
     "url": "https://open.spotify.com/track/6oOhETDdPArYQwBcQuw3TG"
   },
   {
+    "name": "30 Bandido!",
+    "artist": "Costa Gold",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
+    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
+  },
+  {
     "name": "GLOCK DE COR",
     "artist": "Alee, NADAMAL, Jovem Dex",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac916c3a3f6436b0b3bb5cc8",
     "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
+  },
+  {
+    "name": "KING",
+    "artist": "Kanye West, Ye",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
   },
   {
     "name": "O Crime e a Música",
@@ -42,21 +48,15 @@
     "url": "https://open.spotify.com/track/5BNrNIYKhYLyrOuvDhAcrt"
   },
   {
-    "name": "KING",
-    "artist": "Kanye West, Ye",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
+    "name": "TEU TIPO",
+    "artist": "Kenny",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5416e3107fe6cb22f07e00d",
+    "url": "https://open.spotify.com/track/7d2qTUgZKF6upBsA7tMsh8"
   },
   {
     "name": "Jóias do Bairro",
     "artist": "LEALL, Borges, Rock Danger, Babidi",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4fda5eb4b7b216e4efd3be",
     "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
-  },
-  {
-    "name": "TEU TIPO",
-    "artist": "Kenny",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5416e3107fe6cb22f07e00d",
-    "url": "https://open.spotify.com/track/7d2qTUgZKF6upBsA7tMsh8"
   }
 ]
