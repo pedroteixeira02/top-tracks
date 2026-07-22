@@ -12,16 +12,16 @@
     "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
   },
   {
-    "name": "30 Bandido!",
-    "artist": "Costa Gold",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
-    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
-  },
-  {
     "name": "Lua Cheia",
     "artist": "Orochi, jess beats",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a9f96bfe4ca49560204d378",
     "url": "https://open.spotify.com/track/6oOhETDdPArYQwBcQuw3TG"
+  },
+  {
+    "name": "30 Bandido!",
+    "artist": "Costa Gold",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
+    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
   },
   {
     "name": "GLOCK DE COR",
@@ -42,20 +42,21 @@
     "url": "https://open.spotify.com/track/7d2qTUgZKF6upBsA7tMsh8"
   },
   {
+    "name": "Wish (feat. Trippie Redd) - Trippie Mix",
+    "artist": "Diplo, Trippie Redd",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+    "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
+  },
+  {
+    "name": "FATALIIITY",
+    "artist": "DESSIIIK, Leviano, Yoko, bwhatudoin",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370424e8c13232630db5f3229",
+    "url": "https://open.spotify.com/track/3vH2y7g5NwARwGhW7iBRCS"
+  },
+  {
     "name": "O Crime e a Música",
     "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
     "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
-  },
-  {
-    "name": "",
-    "artist": "",
-    "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ"
-  },
-  {
-    "name": "Jóias do Bairro",
-    "artist": "LEALL, Borges, Rock Danger, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4fda5eb4b7b216e4efd3be",
-    "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
   }
 ]
