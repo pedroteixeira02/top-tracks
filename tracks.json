@@ -24,16 +24,22 @@
     "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
   },
   {
+    "name": "Cinderella (feat. Ty Dolla $ign)",
+    "artist": "Mac Miller, Ty Dolla $ign",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
+    "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+  },
+  {
     "name": "GLOCK DE COR",
     "artist": "Alee, NADAMAL, Jovem Dex",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac916c3a3f6436b0b3bb5cc8",
     "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
   },
   {
-    "name": "Cinderella (feat. Ty Dolla $ign)",
-    "artist": "Mac Miller, Ty Dolla $ign",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
-    "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    "name": "O Crime e a Música",
+    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
+    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
   },
   {
     "name": "Violent Crimes",
@@ -52,11 +58,5 @@
     "artist": "Kenny",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5416e3107fe6cb22f07e00d",
     "url": "https://open.spotify.com/track/7d2qTUgZKF6upBsA7tMsh8"
-  },
-  {
-    "name": "O Crime e a Música",
-    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
-    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
   }
 ]
