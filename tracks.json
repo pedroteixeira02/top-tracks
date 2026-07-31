@@ -1,15 +1,15 @@
 [
   {
-    "name": "Suicidal",
-    "artist": "YNW Melly",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c945e5741f61e867c75aa97e",
-    "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
-  },
-  {
     "name": "30 Bandido!",
     "artist": "Costa Gold",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
     "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
+  },
+  {
+    "name": "Suicidal",
+    "artist": "YNW Melly",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c945e5741f61e867c75aa97e",
+    "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
   },
   {
     "name": "Cinderella (feat. Ty Dolla $ign)",
@@ -28,12 +28,6 @@
     "artist": "Kanye West, Ye",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
     "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
-  },
-  {
-    "name": "Violent Crimes",
-    "artist": "Kanye West",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-    "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
   },
   {
     "name": "FATALIIITY",
@@ -58,5 +52,11 @@
     "artist": "Alee, NADAMAL, Jovem Dex",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac916c3a3f6436b0b3bb5cc8",
     "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
+  },
+  {
+    "name": "Fuck Love",
+    "artist": "XXXTENTACION, Trippie Redd",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+    "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
   }
 ]
