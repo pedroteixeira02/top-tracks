@@ -6,12 +6,6 @@
     "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
   },
   {
-    "name": "Suicidal",
-    "artist": "YNW Melly",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c945e5741f61e867c75aa97e",
-    "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
-  },
-  {
     "name": "Cinderella (feat. Ty Dolla $ign)",
     "artist": "Mac Miller, Ty Dolla $ign",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
@@ -22,6 +16,12 @@
     "artist": "Diplo, Trippie Redd",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
     "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
+  },
+  {
+    "name": "Suicidal",
+    "artist": "YNW Melly",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c945e5741f61e867c75aa97e",
+    "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
   },
   {
     "name": "KING",
@@ -42,21 +42,21 @@
     "url": "https://open.spotify.com/track/7d2qTUgZKF6upBsA7tMsh8"
   },
   {
-    "name": "O Crime e a Música",
-    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
-    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
-  },
-  {
-    "name": "GLOCK DE COR",
-    "artist": "Alee, NADAMAL, Jovem Dex",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac916c3a3f6436b0b3bb5cc8",
-    "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
+    "name": "True Love",
+    "artist": "Kanye West, XXXTENTACION",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353edd144e063daae819190e5",
+    "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
   },
   {
     "name": "Fuck Love",
     "artist": "XXXTENTACION, Trippie Redd",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
     "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
+  },
+  {
+    "name": "Bandana 2",
+    "artist": "Veigh, Rocco, Nagalli, Supernova Ent, Yunk Vino, Lp067",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ac996c7c01c601a8edc08c7",
+    "url": "https://open.spotify.com/track/4V43mdZCFdpZvdDoUHpHUZ"
   }
 ]
