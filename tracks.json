@@ -6,12 +6,6 @@
     "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
   },
   {
-    "name": "30 Bandido!",
-    "artist": "Costa Gold",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
-    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
-  },
-  {
     "name": "Wish (feat. Trippie Redd) - Trippie Mix",
     "artist": "Diplo, Trippie Redd",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
@@ -22,6 +16,18 @@
     "artist": "Kanye West, Ye",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
     "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
+  },
+  {
+    "name": "30 Bandido!",
+    "artist": "Costa Gold",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
+    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
+  },
+  {
+    "name": "ÚLTIMA VEZ",
+    "artist": "Alee, Neckklace",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb021b18fcead1189954756d",
+    "url": "https://open.spotify.com/track/7F2ZR42zJapZm5qTFsDiWs"
   },
   {
     "name": "Suicidal",
@@ -36,12 +42,6 @@
     "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
   },
   {
-    "name": "ÚLTIMA VEZ",
-    "artist": "Alee, Neckklace",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb021b18fcead1189954756d",
-    "url": "https://open.spotify.com/track/7F2ZR42zJapZm5qTFsDiWs"
-  },
-  {
     "name": "FATALIIITY",
     "artist": "DESSIIIK, Leviano, Yoko, bwhatudoin",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370424e8c13232630db5f3229",
@@ -54,9 +54,9 @@
     "url": "https://open.spotify.com/track/7d2qTUgZKF6upBsA7tMsh8"
   },
   {
-    "name": "Violent Crimes",
-    "artist": "Kanye West",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-    "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+    "name": "Bandana 2",
+    "artist": "Veigh, Rocco, Nagalli, Supernova Ent, Yunk Vino, Lp067",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ac996c7c01c601a8edc08c7",
+    "url": "https://open.spotify.com/track/4V43mdZCFdpZvdDoUHpHUZ"
   }
 ]
