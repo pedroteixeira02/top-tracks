@@ -12,28 +12,22 @@
     "url": "https://open.spotify.com/track/1KOONWuFgUhnVW589dO29R"
   },
   {
-    "name": "30 Bandido!",
-    "artist": "Costa Gold",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
-    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
-  },
-  {
     "name": "Wish (feat. Trippie Redd) - Trippie Mix",
     "artist": "Diplo, Trippie Redd",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
     "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
   },
   {
+    "name": "30 Bandido!",
+    "artist": "Costa Gold",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
+    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
+  },
+  {
     "name": "Back To Black",
     "artist": "Amy Winehouse",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb58cc91f740bda393b88b34",
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
-  },
-  {
-    "name": "ÚLTIMA VEZ",
-    "artist": "Alee, Neckklace",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb021b18fcead1189954756d",
-    "url": "https://open.spotify.com/track/7F2ZR42zJapZm5qTFsDiWs"
   },
   {
     "name": "O Crime e a Música",
@@ -58,5 +52,11 @@
     "artist": "Cesar Mc",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734feaadc3943b1e54955a1469",
     "url": "https://open.spotify.com/track/5BNrNIYKhYLyrOuvDhAcrt"
+  },
+  {
+    "name": "Suicidal",
+    "artist": "YNW Melly",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c945e5741f61e867c75aa97e",
+    "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
   }
 ]
