@@ -6,22 +6,16 @@
     "url": "https://open.spotify.com/track/5T9QnISeG2Q6Ysu9HbaAzS"
   },
   {
-    "name": "Wish (feat. Trippie Redd) - Trippie Mix",
-    "artist": "Diplo, Trippie Redd",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
-    "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
-  },
-  {
     "name": "30 Bandido!",
     "artist": "Costa Gold",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
     "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
   },
   {
-    "name": "Trap (feat. Dfideliz, MC Igu, Jé Santiago & Derek)",
-    "artist": "Recayd Mob, Derek, Dfideliz, Jé, MC Igu",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738450c4f368d9e5e598fdf213",
-    "url": "https://open.spotify.com/track/1KOONWuFgUhnVW589dO29R"
+    "name": "Wish (feat. Trippie Redd) - Trippie Mix",
+    "artist": "Diplo, Trippie Redd",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e71ccb392305961631deb63b",
+    "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
   },
   {
     "name": "Back To Black",
@@ -30,22 +24,16 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
-    "name": "O Crime e a Música",
-    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
-    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
-  },
-  {
     "name": "Suicidal",
     "artist": "YNW Melly",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c945e5741f61e867c75aa97e",
     "url": "https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"
   },
   {
-    "name": "Cinderella (feat. Ty Dolla $ign)",
-    "artist": "Mac Miller, Ty Dolla $ign",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
-    "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    "name": "Trap (feat. Dfideliz, MC Igu, Jé Santiago & Derek)",
+    "artist": "Recayd Mob, Derek, Dfideliz, Jé, MC Igu",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738450c4f368d9e5e598fdf213",
+    "url": "https://open.spotify.com/track/1KOONWuFgUhnVW589dO29R"
   },
   {
     "name": "3am",
@@ -58,5 +46,17 @@
     "artist": "Cesar Mc",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734feaadc3943b1e54955a1469",
     "url": "https://open.spotify.com/track/5BNrNIYKhYLyrOuvDhAcrt"
+  },
+  {
+    "name": "O Crime e a Música",
+    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
+    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
+  },
+  {
+    "name": "Cinderella (feat. Ty Dolla $ign)",
+    "artist": "Mac Miller, Ty Dolla $ign",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
+    "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
   }
 ]
