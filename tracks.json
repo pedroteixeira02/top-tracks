@@ -36,6 +36,12 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
+    "name": "Voando Num Cisne Negro",
+    "artist": "Filipe Ret, Dallass",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736209f699ea54437203f419d7",
+    "url": "https://open.spotify.com/track/45eASeDwKCiuTlVUl86jzh"
+  },
+  {
     "name": "PAGÃO",
     "artist": "Alee, Klisman, Neckklace",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375c6b03cfce76a5e7abeba8a",
@@ -52,11 +58,5 @@
     "artist": "Filipe Ret",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343f6ec92fbc67e178e5b1f71",
     "url": "https://open.spotify.com/track/4Vm5z6tbxAokWiDHCqxgNo"
-  },
-  {
-    "name": "Voando Num Cisne Negro",
-    "artist": "Filipe Ret, Dallass",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736209f699ea54437203f419d7",
-    "url": "https://open.spotify.com/track/45eASeDwKCiuTlVUl86jzh"
   }
 ]
