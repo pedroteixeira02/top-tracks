@@ -42,12 +42,6 @@
     "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
   },
   {
-    "name": "Voando Num Cisne Negro",
-    "artist": "Filipe Ret, Dallass",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736209f699ea54437203f419d7",
-    "url": "https://open.spotify.com/track/45eASeDwKCiuTlVUl86jzh"
-  },
-  {
     "name": "A Meu Favor - Ao Vivo",
     "artist": "Filipe Ret, Kayuá",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343f6ec92fbc67e178e5b1f71",
@@ -58,5 +52,11 @@
     "artist": "Rô Rosa, Patricio Sid, EME Lab",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a461f6e0c4cafc6632a270",
     "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
+  },
+  {
+    "name": "PAGÃO",
+    "artist": "Alee, Klisman, Neckklace",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375c6b03cfce76a5e7abeba8a",
+    "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
   }
 ]
