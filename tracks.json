@@ -30,12 +30,6 @@
     "url": "https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE"
   },
   {
-    "name": "Universo",
-    "artist": "BK, JXNV$, Nansy Silvvz",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733f32926039e1144896fe5f29",
-    "url": "https://open.spotify.com/track/0PXXt94a68f2EAMwgn0Vr5"
-  },
-  {
     "name": "PAGÃO",
     "artist": "Alee, Klisman, Neckklace",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375c6b03cfce76a5e7abeba8a",
@@ -48,15 +42,21 @@
     "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
   },
   {
+    "name": "Universo",
+    "artist": "BK, JXNV$, Nansy Silvvz",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733f32926039e1144896fe5f29",
+    "url": "https://open.spotify.com/track/0PXXt94a68f2EAMwgn0Vr5"
+  },
+  {
     "name": "Solitude",
     "artist": "Alee, Trap Select",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e259631a4b1af5f8d07dbb2",
     "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
   },
   {
-    "name": "Besteiras",
-    "artist": "LEALL, Rock Danger, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
-    "url": "https://open.spotify.com/track/5K4HRJIIr39tHJBpD0YeyC"
+    "name": "Daquele Jeito",
+    "artist": "Maneva",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7c41bdd5c174806e1aee2cf",
+    "url": "https://open.spotify.com/track/0qonyoWWuQhbWzdlPhRcrn"
   }
 ]
