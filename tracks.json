@@ -18,16 +18,16 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
-    "name": "Deixa Chapar",
-    "artist": "Orochi, Kizzy, Mainstreet",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
-    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
-  },
-  {
     "name": "Sessão do Descarrego",
     "artist": "Filipe Ret, Dfideliz",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732d1c567d25457874160357a6",
     "url": "https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE"
+  },
+  {
+    "name": "Deixa Chapar",
+    "artist": "Orochi, Kizzy, Mainstreet",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
+    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
   },
   {
     "name": "PAGÃO",
@@ -36,16 +36,16 @@
     "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
   },
   {
-    "name": "Te vi de canto",
-    "artist": "Rô Rosa, Patricio Sid, EME Lab",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a461f6e0c4cafc6632a270",
-    "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
-  },
-  {
     "name": "Solitude",
     "artist": "Alee, Trap Select",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e259631a4b1af5f8d07dbb2",
     "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
+  },
+  {
+    "name": "Te vi de canto",
+    "artist": "Rô Rosa, Patricio Sid, EME Lab",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a461f6e0c4cafc6632a270",
+    "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
   },
   {
     "name": "Daquele Jeito",
