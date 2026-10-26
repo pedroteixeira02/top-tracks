@@ -24,28 +24,22 @@
     "url": "https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE"
   },
   {
-    "name": "Deixa Chapar",
-    "artist": "Orochi, Kizzy, Mainstreet",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
-    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
-  },
-  {
     "name": "PAGÃO",
     "artist": "Alee, Klisman, Neckklace",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375c6b03cfce76a5e7abeba8a",
     "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
   },
   {
+    "name": "Deixa Chapar",
+    "artist": "Orochi, Kizzy, Mainstreet",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
+    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
+  },
+  {
     "name": "Solitude",
     "artist": "Alee, Trap Select",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e259631a4b1af5f8d07dbb2",
     "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
-  },
-  {
-    "name": "Te vi de canto",
-    "artist": "Rô Rosa, Patricio Sid, EME Lab",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a461f6e0c4cafc6632a270",
-    "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
   },
   {
     "name": "Daquele Jeito",
@@ -58,5 +52,11 @@
     "artist": "Filipe Ret, Prod.MTS, Johnny Monteiro",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c66ac5cd78aa8a25223e0dcb",
     "url": "https://open.spotify.com/track/0L675GDLyMsuNN4XVon4b8"
+  },
+  {
+    "name": "Meu Lugar",
+    "artist": "Onze:20",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738db37b8e4c0be42bc9e142e4",
+    "url": "https://open.spotify.com/track/0ueSj6goFDHHKCADDz56H4"
   }
 ]
