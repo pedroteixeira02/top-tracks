@@ -6,16 +6,16 @@
     "url": "https://open.spotify.com/track/6YEbp1B6wkVr7BWxHoxzMh"
   },
   {
-    "name": "PIRÂMIDE",
-    "artist": "Klisman, NADAMAL, Alee",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
-    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
-  },
-  {
     "name": "Back To Black",
     "artist": "Amy Winehouse",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb58cc91f740bda393b88b34",
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
+  },
+  {
+    "name": "PIRÂMIDE",
+    "artist": "Klisman, NADAMAL, Alee",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
+    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
   },
   {
     "name": "Sessão do Descarrego",
@@ -42,6 +42,12 @@
     "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
   },
   {
+    "name": "Melhor Agora",
+    "artist": "Filipe Ret, Dallass, Honaiser, LODONI",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fab41c3357f00f3664b007e7",
+    "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
+  },
+  {
     "name": "Daquele Jeito",
     "artist": "Maneva",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7c41bdd5c174806e1aee2cf",
@@ -52,11 +58,5 @@
     "artist": "Filipe Ret, Prod.MTS, Johnny Monteiro",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c66ac5cd78aa8a25223e0dcb",
     "url": "https://open.spotify.com/track/0L675GDLyMsuNN4XVon4b8"
-  },
-  {
-    "name": "Meu Lugar",
-    "artist": "Onze:20",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738db37b8e4c0be42bc9e142e4",
-    "url": "https://open.spotify.com/track/0ueSj6goFDHHKCADDz56H4"
   }
 ]
