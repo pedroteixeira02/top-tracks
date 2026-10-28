@@ -12,12 +12,6 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
-    "name": "PIRÂMIDE",
-    "artist": "Klisman, NADAMAL, Alee",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
-    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
-  },
-  {
     "name": "Sessão do Descarrego",
     "artist": "Filipe Ret, Dfideliz",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732d1c567d25457874160357a6",
@@ -30,10 +24,10 @@
     "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
   },
   {
-    "name": "Deixa Chapar",
-    "artist": "Orochi, Kizzy, Mainstreet",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
-    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
+    "name": "PIRÂMIDE",
+    "artist": "Klisman, NADAMAL, Alee",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
+    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
   },
   {
     "name": "Solitude",
@@ -48,10 +42,16 @@
     "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
   },
   {
-    "name": "Daquele Jeito",
-    "artist": "Maneva",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7c41bdd5c174806e1aee2cf",
-    "url": "https://open.spotify.com/track/0qonyoWWuQhbWzdlPhRcrn"
+    "name": "Deixa Chapar",
+    "artist": "Orochi, Kizzy, Mainstreet",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
+    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
+  },
+  {
+    "name": "Meu Lugar",
+    "artist": "Onze:20",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738db37b8e4c0be42bc9e142e4",
+    "url": "https://open.spotify.com/track/0ueSj6goFDHHKCADDz56H4"
   },
   {
     "name": "Absolvido Por Deus",
