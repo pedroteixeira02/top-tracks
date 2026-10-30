@@ -12,22 +12,16 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
-    "name": "Sessão do Descarrego",
-    "artist": "Filipe Ret, Dfideliz",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732d1c567d25457874160357a6",
-    "url": "https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE"
-  },
-  {
     "name": "PAGÃO",
     "artist": "Alee, Klisman, Neckklace",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375c6b03cfce76a5e7abeba8a",
     "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
   },
   {
-    "name": "Deixa Chapar",
-    "artist": "Orochi, Kizzy, Mainstreet",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
-    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
+    "name": "Sessão do Descarrego",
+    "artist": "Filipe Ret, Dfideliz",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732d1c567d25457874160357a6",
+    "url": "https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE"
   },
   {
     "name": "Melhor Agora",
@@ -36,10 +30,16 @@
     "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
   },
   {
-    "name": "PIRÂMIDE",
-    "artist": "Klisman, NADAMAL, Alee",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
-    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+    "name": "Deixa Chapar",
+    "artist": "Orochi, Kizzy, Mainstreet",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
+    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
+  },
+  {
+    "name": "O Crime e a Música",
+    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
+    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
   },
   {
     "name": "Solitude",
@@ -48,15 +48,15 @@
     "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
   },
   {
-    "name": "Meu Lugar",
-    "artist": "Onze:20",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738db37b8e4c0be42bc9e142e4",
-    "url": "https://open.spotify.com/track/0ueSj6goFDHHKCADDz56H4"
+    "name": "PASSADO DE UM VILÃO",
+    "artist": "Alee",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb021b18fcead1189954756d",
+    "url": "https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b"
   },
   {
-    "name": "Absolvido Por Deus",
-    "artist": "Filipe Ret, Prod.MTS, Johnny Monteiro",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c66ac5cd78aa8a25223e0dcb",
-    "url": "https://open.spotify.com/track/0L675GDLyMsuNN4XVon4b8"
+    "name": "ÚLTIMA VEZ",
+    "artist": "Alee, Neckklace",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb021b18fcead1189954756d",
+    "url": "https://open.spotify.com/track/7F2ZR42zJapZm5qTFsDiWs"
   }
 ]
