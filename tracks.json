@@ -24,28 +24,16 @@
     "url": "https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE"
   },
   {
-    "name": "Melhor Agora",
-    "artist": "Filipe Ret, Dallass, Honaiser, LODONI",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fab41c3357f00f3664b007e7",
-    "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
-  },
-  {
     "name": "Deixa Chapar",
     "artist": "Orochi, Kizzy, Mainstreet",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
     "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
   },
   {
-    "name": "O Crime e a Música",
-    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
-    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
-  },
-  {
-    "name": "Solitude",
-    "artist": "Alee, Trap Select",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e259631a4b1af5f8d07dbb2",
-    "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
+    "name": "Melhor Agora",
+    "artist": "Filipe Ret, Dallass, Honaiser, LODONI",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fab41c3357f00f3664b007e7",
+    "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
   },
   {
     "name": "Pra Você - Ao Vivo",
@@ -54,9 +42,21 @@
     "url": "https://open.spotify.com/track/3GSjs0Xq5VgOIMctR72Hkv"
   },
   {
-    "name": "PASSADO DE UM VILÃO",
-    "artist": "Alee",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb021b18fcead1189954756d",
-    "url": "https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b"
+    "name": "O Crime e a Música",
+    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
+    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
+  },
+  {
+    "name": "PIRÂMIDE",
+    "artist": "Klisman, NADAMAL, Alee",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
+    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+  },
+  {
+    "name": "Solitude",
+    "artist": "Alee, Trap Select",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e259631a4b1af5f8d07dbb2",
+    "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
   }
 ]
