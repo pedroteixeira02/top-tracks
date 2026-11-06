@@ -18,6 +18,12 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
+    "name": "Um Drink no Inferno",
+    "artist": "Xamã, Bagua Records, Neo Beats",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b4b73f590cecc16d9a1a8c47",
+    "url": "https://open.spotify.com/track/0BFtrq3fyv1kRcId4o18mK"
+  },
+  {
     "name": "Melhor Agora",
     "artist": "Filipe Ret, Dallass, Honaiser, LODONI",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fab41c3357f00f3664b007e7",
@@ -30,22 +36,10 @@
     "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
   },
   {
-    "name": "Um Drink no Inferno",
-    "artist": "Xamã, Bagua Records, Neo Beats",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b4b73f590cecc16d9a1a8c47",
-    "url": "https://open.spotify.com/track/0BFtrq3fyv1kRcId4o18mK"
-  },
-  {
-    "name": "Sessão do Descarrego",
-    "artist": "Filipe Ret, Dfideliz",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732d1c567d25457874160357a6",
-    "url": "https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE"
-  },
-  {
-    "name": "Pra Você - Ao Vivo",
-    "artist": "Henry Freitas",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738dea8e944d241817c7f32bbe",
-    "url": "https://open.spotify.com/track/3GSjs0Xq5VgOIMctR72Hkv"
+    "name": "O Crime e a Música",
+    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
+    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
   },
   {
     "name": "Solitude",
@@ -54,9 +48,15 @@
     "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
   },
   {
-    "name": "PIRÂMIDE",
-    "artist": "Klisman, NADAMAL, Alee",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
-    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+    "name": "30 Bandido!",
+    "artist": "Costa Gold",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
+    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
+  },
+  {
+    "name": "Mi'adama",
+    "artist": "Sidoka",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc1f2f8ce786652f0e28ceba",
+    "url": "https://open.spotify.com/track/53mLw7fjBta4cbtDz7N2Sf"
   }
 ]
