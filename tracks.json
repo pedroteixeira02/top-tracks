@@ -12,16 +12,16 @@
     "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
   },
   {
-    "name": "Back To Black",
-    "artist": "Amy Winehouse",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb58cc91f740bda393b88b34",
-    "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
-  },
-  {
     "name": "Um Drink no Inferno",
     "artist": "Xamã, Bagua Records, Neo Beats",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b4b73f590cecc16d9a1a8c47",
     "url": "https://open.spotify.com/track/0BFtrq3fyv1kRcId4o18mK"
+  },
+  {
+    "name": "Back To Black",
+    "artist": "Amy Winehouse",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb58cc91f740bda393b88b34",
+    "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
     "name": "Melhor Agora",
@@ -30,22 +30,16 @@
     "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
   },
   {
-    "name": "Deixa Chapar",
-    "artist": "Orochi, Kizzy, Mainstreet",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
-    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
-  },
-  {
-    "name": "O Crime e a Música",
-    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
-    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
-  },
-  {
     "name": "Solitude",
     "artist": "Alee, Trap Select",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e259631a4b1af5f8d07dbb2",
     "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
+  },
+  {
+    "name": "Deixa Chapar",
+    "artist": "Orochi, Kizzy, Mainstreet",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7b684486f82e85e5d93156",
+    "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
   },
   {
     "name": "30 Bandido!",
@@ -58,5 +52,11 @@
     "artist": "Sidoka",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc1f2f8ce786652f0e28ceba",
     "url": "https://open.spotify.com/track/53mLw7fjBta4cbtDz7N2Sf"
+  },
+  {
+    "name": "PIRÂMIDE",
+    "artist": "Klisman, NADAMAL, Alee",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
+    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
   }
 ]
