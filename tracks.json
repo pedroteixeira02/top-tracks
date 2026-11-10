@@ -42,6 +42,12 @@
     "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN"
   },
   {
+    "name": "O Crime e a Música",
+    "artist": "LEALL, Rock Danger, Xamã, Ryu, The Runner, Babidi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737044acd008e0d442a860fac5",
+    "url": "https://open.spotify.com/track/6NAHUSjmzZuOQE9vPOwNro"
+  },
+  {
     "name": "30 Bandido!",
     "artist": "Costa Gold",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
@@ -52,11 +58,5 @@
     "artist": "Sidoka",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc1f2f8ce786652f0e28ceba",
     "url": "https://open.spotify.com/track/53mLw7fjBta4cbtDz7N2Sf"
-  },
-  {
-    "name": "PIRÂMIDE",
-    "artist": "Klisman, NADAMAL, Alee",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afe7300597741b020ae964cb",
-    "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
   }
 ]
