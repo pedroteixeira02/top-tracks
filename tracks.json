@@ -24,22 +24,10 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
-    "name": "Solitude",
-    "artist": "Alee, Trap Select",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e259631a4b1af5f8d07dbb2",
-    "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
-  },
-  {
-    "name": "Segredos e Defeitos",
-    "artist": "Raflow, Caio Luccas, Tz da Coronel",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27331aa4dc7023763007251dbf5",
-    "url": "https://open.spotify.com/track/6K15dHWfoYGav0Ry69TvVO"
-  },
-  {
-    "name": "Cheiro de Hermes",
-    "artist": "Kenny",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f624fa6c25bec4180028d0ce",
-    "url": "https://open.spotify.com/track/4oDcuD0E0AfhdcKL4HLldh"
+    "name": "Melhor Agora",
+    "artist": "Filipe Ret, Dallass, Honaiser, LODONI",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fab41c3357f00f3664b007e7",
+    "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
   },
   {
     "name": "Amor Pra Recomeçar",
@@ -48,15 +36,27 @@
     "url": "https://open.spotify.com/track/5CnXvlLbqgMCrT4oD75d6N"
   },
   {
-    "name": "30 Bandido!",
-    "artist": "Costa Gold",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
-    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
+    "name": "Cheiro de Hermes",
+    "artist": "Kenny",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f624fa6c25bec4180028d0ce",
+    "url": "https://open.spotify.com/track/4oDcuD0E0AfhdcKL4HLldh"
   },
   {
     "name": "Pra Você - Ao Vivo",
     "artist": "Henry Freitas",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738dea8e944d241817c7f32bbe",
     "url": "https://open.spotify.com/track/3GSjs0Xq5VgOIMctR72Hkv"
+  },
+  {
+    "name": "Segredos e Defeitos",
+    "artist": "Raflow, Caio Luccas, Tz da Coronel",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27331aa4dc7023763007251dbf5",
+    "url": "https://open.spotify.com/track/6K15dHWfoYGav0Ry69TvVO"
+  },
+  {
+    "name": "30 Bandido!",
+    "artist": "Costa Gold",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5848a7a2e6fb139a5e256e",
+    "url": "https://open.spotify.com/track/5x9FUcABwqYAOMptRedOku"
   }
 ]
