@@ -24,10 +24,10 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
-    "name": "PAGÃO",
-    "artist": "Alee, Klisman, Neckklace",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375c6b03cfce76a5e7abeba8a",
-    "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
+    "name": "Melhor Agora",
+    "artist": "Filipe Ret, Dallass, Honaiser, LODONI",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fab41c3357f00f3664b007e7",
+    "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
   },
   {
     "name": "Amor Pra Recomeçar",
@@ -36,10 +36,16 @@
     "url": "https://open.spotify.com/track/5CnXvlLbqgMCrT4oD75d6N"
   },
   {
-    "name": "Melhor Agora",
-    "artist": "Filipe Ret, Dallass, Honaiser, LODONI",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fab41c3357f00f3664b007e7",
-    "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
+    "name": "PAGÃO",
+    "artist": "Alee, Klisman, Neckklace",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375c6b03cfce76a5e7abeba8a",
+    "url": "https://open.spotify.com/track/4RGWaNjG7K8CNWbGJi7h1p"
+  },
+  {
+    "name": "Pai Nosso - Ao Vivo",
+    "artist": "Padre Marcelo Rossi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e07fdc18099292df5dad9c6",
+    "url": "https://open.spotify.com/track/3xArlyFGlFLjPCSivTD6ce"
   },
   {
     "name": "Cheiro de Hermes",
@@ -52,11 +58,5 @@
     "artist": "Raflow, Caio Luccas, Tz da Coronel",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27331aa4dc7023763007251dbf5",
     "url": "https://open.spotify.com/track/6K15dHWfoYGav0Ry69TvVO"
-  },
-  {
-    "name": "Pra Você - Ao Vivo",
-    "artist": "Henry Freitas",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738dea8e944d241817c7f32bbe",
-    "url": "https://open.spotify.com/track/3GSjs0Xq5VgOIMctR72Hkv"
   }
 ]
