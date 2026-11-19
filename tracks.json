@@ -42,6 +42,12 @@
     "url": "https://open.spotify.com/track/60gmGjgh248Elj8xTMdJsA"
   },
   {
+    "name": "Segredos e Defeitos",
+    "artist": "Raflow, Caio Luccas, Tz da Coronel",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27331aa4dc7023763007251dbf5",
+    "url": "https://open.spotify.com/track/6K15dHWfoYGav0Ry69TvVO"
+  },
+  {
     "name": "Pai Nosso - Ao Vivo",
     "artist": "Padre Marcelo Rossi",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e07fdc18099292df5dad9c6",
@@ -52,11 +58,5 @@
     "artist": "Kenny",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f624fa6c25bec4180028d0ce",
     "url": "https://open.spotify.com/track/4oDcuD0E0AfhdcKL4HLldh"
-  },
-  {
-    "name": "Segredos e Defeitos",
-    "artist": "Raflow, Caio Luccas, Tz da Coronel",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27331aa4dc7023763007251dbf5",
-    "url": "https://open.spotify.com/track/6K15dHWfoYGav0Ry69TvVO"
   }
 ]
